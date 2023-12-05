@@ -39,7 +39,7 @@ spec:
 kubectl apply -f ipPoolAddress.yaml
 ```
 
-**Create a "L2Advertisement:"
+**Create a "L2Advertisement:"**
 
 ```
 apiVersion: metallb.io/v1beta1
