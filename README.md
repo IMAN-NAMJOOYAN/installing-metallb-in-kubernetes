@@ -58,6 +58,9 @@ spec:
 kubectl apply -f l2advertisement.yaml
 ```
 
+**Check Loadbalancer:**
+
+![image](https://github.com/IMAN-NAMJOOYAN/installing-metallb-in-kubernetes/assets/16554389/e52fd612-7c7b-4bcb-b7b3-6f3e93fedf59)
 
 
 
