@@ -9,7 +9,7 @@ kubectl apply -f - -n kube-system
 ```
 
 ```
-helm install metallb metallb/metallb
+helm install metallb bitnami/metallb
 ```
 
 ![image](https://github.com/IMAN-NAMJOOYAN/installing-metallb-in-kubernetes/assets/16554389/80636e23-3fe3-40fd-9f18-ef9320fae1e0)
